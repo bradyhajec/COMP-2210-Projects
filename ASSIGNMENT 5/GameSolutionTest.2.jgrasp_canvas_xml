@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>adjacent</Name>
+    <Signature>()[LGameSolution$Position;</Signature>
+    <DeclaringType>GameSolution$Position</DeclaringType>
+    <Depth>39</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>40</X>
+      <Y>80</Y>
+      <W>378</W>
+      <H>106</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local GameSolution$Position[]` adj</Expression>
+      <ViewerClass>jgrasp_viewers._X_A_PresentationView</ViewerClass>
+      <ViewerData>
+        <Round>false</Round>
+      </ViewerData>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>489</W>
+    <H>508</H>
+  </Size>
+  <ESize>
+    <W>489</W>
+    <H>508</H>
+  </ESize>
+</Canvas>
